@@ -1,0 +1,30 @@
+[
+	{
+		"amount": 125.56,
+		"category": "61b97c7f76b712ccadc331ee",
+		"week": "61b97c58b8f7a82916e2df05",
+		"description": "food",
+		"location": "walmart"
+	},
+	{
+		"amount": 96.35,
+		"category": "61b97c7f76b712ccadc331ee",
+		"week": "61b97c58b8f7a82916e2df05",
+		"description": "food",
+		"location": "kroger"
+	},
+	{
+		"amount": 42,
+		"category": "61b97c94d43d0db82ae3a456",
+		"week": "61b97c5fef11d7335da45fc7",
+		"description": "fuel",
+		"location": "enmarket"
+	},
+	{
+		"amount": 32,
+		"category": "61b97c94d43d0db82ae3a456",
+		"week": "61b97c5fef11d7335da45fc7",
+		"description": "fuel",
+		"location": "k-cicle"
+	}
+]
